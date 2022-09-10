@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Decal_Subrect_Shader>
+   <!--Decal - Using Subrect Shader-->
+   <Template>
+      <Shader>Subrect</Shader>
+      <SurfaceProp>Empty</SurfaceProp>
+      <KeyWords>Empty</KeyWords>
+      <Param1a>$Material</Param1a>
+      <Param1b>directory/texture</Param1b>
+      <Param2a>$Pos</Param2a>
+      <Param2b>64 32</Param2b>
+      <Param3a>$Size</Param3a>
+      <Param3b>64 64</Param3b>
+      <Param4a>$modelmaterial</Param4a>
+      <Param4b>directory/texture</Param4b>
+      <Param5a>Empty</Param5a>
+      <Param5b>Empty</Param5b>
+      <Param6a>Empty</Param6a>
+      <Param6b>Empty</Param6b>
+      <Param7a>Empty</Param7a>
+      <Param7b>Empty</Param7b>
+      <Param8a>Empty</Param8a>
+      <Param8b>Empty</Param8b>
+      <Param9a>Empty</Param9a>
+      <Param9b>Empty</Param9b>
+      <Param10a>Empty</Param10a>
+      <Param10b>Empty</Param10b>
+      <Additive>False</Additive>
+      <AlphaTest>False</AlphaTest>
+      <EnvMapContrast>False</EnvMapContrast>
+      <EnvMapSaturation>False</EnvMapSaturation>
+      <Decal>False</Decal>
+      <HalfLambert>False</HalfLambert>
+      <Model>False</Model>
+      <MultiPass>False</MultiPass>
+      <NoCull>False</NoCull>
+      <NoDecal>False</NoDecal>
+      <NoLod>False</NoLod>
+      <NoFullbright>False</NoFullbright>
+      <SelfIlum>False</SelfIlum>
+      <Translucent>False</Translucent>
+      <VertexAlpha>False</VertexAlpha>
+      <VertexColor>False</VertexColor>
+      <BlendedVmt>False</BlendedVmt>
+      <SurfaceProp2>Empty</SurfaceProp2>
+   </Template>
+</Decal_Subrect_Shader>

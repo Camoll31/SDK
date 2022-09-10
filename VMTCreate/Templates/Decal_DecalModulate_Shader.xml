@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Decal_DecalModulate_Shader>
+   <!--Decal - Using DecalModulate Shader-->
+   <Template>
+      <Shader>DecalModulate</Shader>
+      <SurfaceProp>Empty</SurfaceProp>
+      <KeyWords>Empty</KeyWords>
+      <Param1a>$decalscale</Param1a>
+      <Param1b>0.25</Param1b>
+      <Param2a>Empty</Param2a>
+      <Param2b>Empty</Param2b>
+      <Param3a>Empty</Param3a>
+      <Param3b>Empty</Param3b>
+      <Param4a>Empty</Param4a>
+      <Param4b>Empty</Param4b>
+      <Param5a>Empty</Param5a>
+      <Param5b>Empty</Param5b>
+      <Param6a>Empty</Param6a>
+      <Param6b>Empty</Param6b>
+      <Param7a>Empty</Param7a>
+      <Param7b>Empty</Param7b>
+      <Param8a>Empty</Param8a>
+      <Param8b>Empty</Param8b>
+      <Param9a>Empty</Param9a>
+      <Param9b>Empty</Param9b>
+      <Param10a>Empty</Param10a>
+      <Param10b>Empty</Param10b>
+      <Additive>False</Additive>
+      <AlphaTest>False</AlphaTest>
+      <EnvMapContrast>False</EnvMapContrast>
+      <EnvMapSaturation>False</EnvMapSaturation>
+      <Decal>True</Decal>
+      <HalfLambert>False</HalfLambert>
+      <Model>False</Model>
+      <MultiPass>False</MultiPass>
+      <NoCull>False</NoCull>
+      <NoDecal>False</NoDecal>
+      <NoLod>False</NoLod>
+      <NoFullbright>False</NoFullbright>
+      <SelfIlum>False</SelfIlum>
+      <Translucent>False</Translucent>
+      <VertexAlpha>False</VertexAlpha>
+      <VertexColor>False</VertexColor>
+      <BlendedVmt>False</BlendedVmt>
+      <SurfaceProp2>Empty</SurfaceProp2>
+   </Template>
+</Decal_DecalModulate_Shader>
